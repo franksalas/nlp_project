@@ -2,6 +2,7 @@
 
 ### Enviroment
 - Windows Linux Subsystem
+- anaconda distribution
 
 ## Running repo
 
