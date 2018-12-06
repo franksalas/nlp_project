@@ -1,5 +1,28 @@
 # NLP Project
 
+## Running repo
+
+1. clone repo
+
+```shell
+git clone https://github.com/franksalas/nlp_project.git
+```
+
+2. create enviroment from yml file
+
+```shell
+conda env create -f environment.yml
+```
+
+3. activate enviroment
+
+```shell
+source activate spacy
+```
+4. get to work
+
+
+
 # Objectives
 
 ## Analyze unstructured data 
