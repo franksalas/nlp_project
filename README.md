@@ -48,7 +48,7 @@ I recently caught up with Adam of Argos Group and he indicated they are actively
 
 2. Save entities in a format compatible for structure manipulation
 
-```JSON
+```python
 {'PERSON': ['Adam'],
  'ORG': ['Argos Group'],
  'GPE': ['US', 'Chicago'],
@@ -106,7 +106,7 @@ match
 ## Expand Domain specific acronyms
 ### text
 
-````
+```
 I will be based in New York, mainly tasked with sourcing equity and debt investments in high-profile
         real estate assets in gateway markets with equity ticket $30M and up. My team and I will also look for JV
         and M&A opportunities of established real estate companies and platforms.
