@@ -1,5 +1,8 @@
 # NLP Project
 
+### Enviroment
+- Windows Linux Subsystem
+
 ## Running repo
 
 1. clone repo
@@ -21,6 +24,9 @@ source activate spacy
 ```
 4. get to work
 
+... or  run [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/franksalas/nlp_project/master)
+
+It might crash tho..
 
 
 # Objectives
