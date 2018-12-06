@@ -1,4 +1,4 @@
-# NLP Project
+# NLP Project [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/franksalas/nlp_project/master)
 
 ### Enviroment
 - Windows Linux Subsystem
@@ -24,9 +24,6 @@ source activate spacy
 ```
 4. get to work
 
-... or  run [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/franksalas/nlp_project/master)
-
-It might crash tho..
 
 
 # Objectives
