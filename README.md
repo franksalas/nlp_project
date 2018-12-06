@@ -5,10 +5,12 @@
 
 ## Running repo
 
-1. clone repo
+1. clone repo & cd to project folder
 
 ```shell
 git clone https://github.com/franksalas/nlp_project.git
+
+cd nlp_project
 ```
 
 2. create enviroment from yml file
